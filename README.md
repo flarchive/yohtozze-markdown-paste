@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of yohtozze/markdown-paste.** Not for installation: use [Packagist](https://packagist.org/packages/yohtozze/markdown-paste) or the [upstream repository](https://github.com/yohtozze/markdown-paste).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/yohtozze-markdown-paste/tree/archive/v1.1.0) · Flarum: `^1.0`
+**2** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/yohtozze-markdown-paste/tree/archive/v1.1.0) · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-03-11 | `^1.0` | [Browse](https://github.com/flarchive/yohtozze-markdown-paste/tree/archive/v1.0.0) |
+| `1.1.0` | 2023-04-05 | `^1.0` | [Browse](https://github.com/flarchive/yohtozze-markdown-paste/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/yohtozze-markdown-paste.json](https://github.com/flarchive/archive-index/blob/main/packages/yohtozze-markdown-paste.json)
 
